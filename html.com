@@ -1,8 +1,6 @@
 <html>
 	<head>
-	<title>
-	
-	<title/>
+	 <title>Sistema visor Transversal <title/>
 	<head/>
 		<body>
 		<body/>
